@@ -1,0 +1,6 @@
+{
+  "name": "Ayan Coaching",
+  "description": "Chemistry coaching center app to manage attendance, track grades, receive push notification updates, view analytics, download study schedules, and access supplementary learning materials or pdf chapter repositories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
